@@ -1,0 +1,15 @@
+../Core/Src/main.c:92:7:Read_acc	2
+../Core/Src/main.c:104:6:HAL_UART_RxCpltCallback	6
+../Core/Src/main.c:127:6:controlMotor	4
+../Core/Src/main.c:156:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:164:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:175:5:quadEncoder_GetSpeedL	4
+../Core/Src/main.c:206:5:main	1
+../Core/Src/main.c:267:6:SystemClock_Config	3
+../Core/Src/main.c:314:13:MX_ADC1_Init	3
+../Core/Src/main.c:366:13:MX_TIM2_Init	7
+../Core/Src/main.c:429:13:MX_TIM3_Init	4
+../Core/Src/main.c:474:13:MX_TIM4_Init	6
+../Core/Src/main.c:533:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:566:13:MX_GPIO_Init	1
+../Core/Src/main.c:632:6:Error_Handler	1
